@@ -1,9 +1,9 @@
 Scan de vulnerabilidade
 
 
---------Análise 
+--------AnÃ¡lise 
 
-Conversar com o cliente e reconhecer os requisitos necessários.
+Conversar com o cliente e reconhecer os requisitos necessÃ¡rios.
 
 --------Design
 
@@ -12,7 +12,7 @@ Analise de ativos de rede e verificar quais suas vulnerabilidades na infraestrut
 
 
 
------Codificação
+-----CodificaÃ§Ã£o
 
 verificar e realizar um scan de todos os ativos de redes vulneraveis das caixas (switches, roteadores, servidores, computadores etc.)
 
@@ -20,8 +20,11 @@ verificar e realizar um scan de todos os ativos de redes vulneraveis das caixas 
 
 -------Teste
 
-Após encontrar as vulnerabilidades, ele faz um relatório.
+ApÃ³s encontrar as vulnerabilidades, ele faz um relatÃ³rio.
 
--------Operação
+-------OperaÃ§Ã£o
 
-Após e leitura do relatório, os analistas verificam e corrigem os pontos encontrados.
+ApÃ³s e leitura do relatÃ³rio, os analistas verificam e corrigem os pontos encontrados.
+
+
+Eduardo Juca RA 1701923 user: dudujuca
